@@ -11,4 +11,4 @@
   - [LinkedIn](https://www.linkedin.com/in/anshuman-chauhan-598b74194/)
 - ⚡ Fun fact: I love to write music and play piano, guitar, harmonium and drums. 
 
-Languages and Tools: C ; C++ ; Python ; HTML ; CSS ; JS ; Django ; Keras ; NLTK 
+Languages and Tools: C ; C++ ; Python ; HTML ; CSS ; JS ; Django ; Keras ; NLTK ; Numpy ; Pandas ; Matplotlib 
