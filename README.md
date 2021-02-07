@@ -10,4 +10,4 @@
   - [Youtube](https://www.youtube.com/channel/UCjP2q_4w904SgWRKNgQzw9Q)
 - ⚡ Fun fact: I love to write music and play piano, guitar, harmonium and drums. 
 
-Skills I know: C ; C++ ; Python ; HTML ; CSS ; JS ; Django
+Languages and Tools: C ; C++ ; Python ; HTML ; CSS ; JS ; Django
