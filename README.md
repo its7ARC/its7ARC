@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on making quality education accesible to All for Free.
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Competitive Programming and Backend web development.
-- 👯 I’m looking to collaborate on multiple Web development projects.
+- 👯 I’m looking to collaborate on multiple Web apps.
 - 💬 Ask me about anything you want to..
 - 📫 How to reach me:
   - [Gmail](its7arc@gmail.com)
