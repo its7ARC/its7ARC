@@ -1,7 +1,7 @@
 ### Hi there I'm Anshuman Chauhan👋
 
 - 🔭 I’m currently working on making quality education accesible to All for Free.
-- 🌱 I’m currently into DS-Algo and Competitive Programming.
+- 🌱 I’m currently into DS-Algo and machine learning.
 - 💬 Ask me anything.
 - 📫 How to reach me:
   - [Gmail](its7arc@gmail.com)
