@@ -1,6 +1,6 @@
 ### Hi there I'm Anshuman Chauhan👋
 
-- 🌱 I’m currently into DS-Algo and machine learning.
+- 🌱 I’m currently into DS-Algo and Machine Learning.
 - 💬 Ask me anything.
 - 📫 How to reach me:
   - [Gmail](its7arc@gmail.com)
